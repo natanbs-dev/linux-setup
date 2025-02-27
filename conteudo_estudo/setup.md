@@ -15,7 +15,10 @@
 - firefox
 - gnome-text-editor
 - ffmpeg
-- 
+- ncdu
+- ranger
+- software&updates
+
 
 ---
 
